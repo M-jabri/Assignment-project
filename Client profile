@@ -3,3 +3,6 @@ if a purchase is done
 points=points+10
 else if points is used
 points=points-points used
+if Point>500
+display
+"you have discount"
