@@ -1,0 +1,5 @@
+Read Client name, account no, points, purchase
+if a purchase is done
+points=points+10
+else if points is used
+points=points-points used
